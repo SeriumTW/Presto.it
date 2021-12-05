@@ -7,19 +7,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## About Presto.it
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Questo progetto è il test finale di Aulab, creato da Emanuele Denaro e Bruno Marino con la metodologia agile Scrum. Abbiamo usato tutte le nostre conoscenze accumulate durante il bootcamp e abbiamo "finito" di creare questo fantastico sito di Annunci. Ringrazio Aulab per tutto, questo è solo l'inizio!
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Conoscenze acquisite durante il bootcamp
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- HTML5 & CSS3.
+- Frameworks di CSS: Bootstrap & MDBootstrap
+- Javascript & PHP.
+- Frameworks di PHP: Laravel.
+- Database relazionali: MySQL.
+- Laravel Fortify
+- Librerie esterne: Spatie, Chatify, Google Vision API, Dropzone e molto altro.
 
 ## Learning Laravel
 
