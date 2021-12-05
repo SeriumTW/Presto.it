@@ -1,0 +1,25 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+/storage/*.index
+<<<<<<< HEAD
+google_credential.json
+=======
+<<<<<<< HEAD
+google_credential.json
+=======
+google_credential.json
+>>>>>>> 292fda4ff9bd8b5cb02e3412b3f2991197ab315e
+>>>>>>> 950f7911ae68127aa8f0045d17fa76fb02e4e88b

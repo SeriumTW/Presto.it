@@ -1,0 +1,467 @@
+[33mcommit d26b7a98f2c591d70888a9d590815c8e6f855033[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 7ad0929 4ef2820
+Author: Daniele Bollati <danielebollati@rocketmail.com>
+Date:   Thu Nov 25 15:01:48 2021 +0100
+
+    Merge branch 'master' of gitlab.com:hackademy-34/presto_justdevs
+
+[33mcommit 7ad0929e083824dfbc6082e2f0b23670177b5ace[m
+Author: Daniele Bollati <danielebollati@rocketmail.com>
+Date:   Thu Nov 25 15:01:25 2021 +0100
+
+    pre commit
+
+[33mcommit 4ef28208144017a52027099e238d782955c3d178[m
+Author: Bruno Marino <bruno97984@gmail.com>
+Date:   Thu Nov 25 14:57:21 2021 +0100
+
+    aggiornati i link del quick menu nel footer
+
+[33mcommit c391f12c6ff82d3b447d5b56de00ab7aa78ad804[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Thu Nov 25 14:24:21 2021 +0100
+
+    Cambiamenti estetici welcome e filtraggio per categoria
+
+[33mcommit 09b84c56686187b70b14a9a30ab966c4863f7220[m
+Author: Bruno Marino <bruno97984@gmail.com>
+Date:   Thu Nov 25 13:27:57 2021 +0100
+
+    implementata userStory 3 funzionante
+
+[33mcommit 42677b979e6e33b70911e456391e99dfc16325c1[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Thu Nov 25 09:49:16 2021 +0100
+
+    aggiunte animazioni home
+
+[33mcommit 9ffdad521daa6e47d4c7e5f9d7809dbafc618f6d[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Thu Nov 25 02:03:34 2021 +0100
+
+     aggiunto sezione grafica sotto search
+
+[33mcommit f67a1bb9e9ef74c3a41607c5abf89659b61fb1a3[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Thu Nov 25 01:09:23 2021 +0100
+
+     Completato design barra di ricerca home e barra della navbar con aggiunta di logo del sito
+
+[33mcommit ca57aab21ad7338edee0df0bf730cb9538acec49[m
+Author: Bruno Marino <bruno97984@gmail.com>
+Date:   Wed Nov 24 20:06:57 2021 +0100
+
+    implementato search sulla navbar
+
+[33mcommit a419dcd3ed2d28968d0fb9f5167fc4975fadb727[m
+Author: Tiziana Farina <tiziana.farina@live.it>
+Date:   Wed Nov 24 19:22:12 2021 +0100
+
+    implementazione coda db
+
+[33mcommit e3c5a6dd45b43d4882fc56e6fbefc0b401e3bf7c[m
+Merge: e7016c6 d5652ea
+Author: Tiziana Farina <tiziana.farina@live.it>
+Date:   Wed Nov 24 18:17:16 2021 +0100
+
+    Merge branch 'master' of gitlab.com:hackademy-34/presto_justdevs
+
+[33mcommit e7016c6523271d42f17212d722a14035e5eef4cb[m
+Merge: 1c41995 a107317
+Author: Tiziana Farina <tiziana.farina@live.it>
+Date:   Wed Nov 24 18:17:04 2021 +0100
+
+    pre commit
+
+[33mcommit d5652eae4cf4060b7dcece400fa6b1843e689500[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Wed Nov 24 18:16:27 2021 +0100
+
+    enter
+
+[33mcommit 1c419955177b9605b3e260c8eb3c2c055b4dc4f1[m
+Author: Tiziana Farina <tiziana.farina@live.it>
+Date:   Wed Nov 24 18:14:19 2021 +0100
+
+    pre commit
+
+[33mcommit a7b4540bbc800fa58c7f9e723a4087b7f2805c63[m
+Merge: 08d22c8 a107317
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Wed Nov 24 18:13:02 2021 +0100
+
+    Merge branch 'master' of gitlab.com:hackademy-34/presto_justdevs
+
+[33mcommit 08d22c8f914887658d712da8f38f86528702527a[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Wed Nov 24 18:11:56 2021 +0100
+
+    pre-commit
+
+[33mcommit a1073172430a238beff232576c9ea2c60c164f7f[m
+Author: Bruno Marino <bruno97984@gmail.com>
+Date:   Wed Nov 24 18:10:44 2021 +0100
+
+    implementata la logica di ricerca fulltext funzionante
+
+[33mcommit 732811ae4e09b4ca8a2c0b42c0cb369745e2e813[m
+Author: Bruno Marino <bruno97984@gmail.com>
+Date:   Wed Nov 24 16:18:31 2021 +0100
+
+    pre commit
+
+[33mcommit 4b719f3cb67bccf22682981ee46f6e81d4e14c81[m
+Merge: 6696990 220a348
+Author: Bruno Marino <bruno97984@gmail.com>
+Date:   Wed Nov 24 16:16:43 2021 +0100
+
+    Merge branch 'master' of gitlab.com:hackademy-34/presto_justdevs
+
+[33mcommit 220a3485c50ab679d3105ff966e06ed4f0e8db60[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Wed Nov 24 16:12:56 2021 +0100
+
+    versione sistemata
+
+[33mcommit 66969909f851303ee57d413d478d86988c7f3ad1[m
+Author: Bruno Marino <bruno97984@gmail.com>
+Date:   Wed Nov 24 16:07:44 2021 +0100
+
+    pre push
+
+[33mcommit 8c9d567c2f89aefc8a5bc3e7834e0a9f7fa6bdcb[m
+Author: Tiziana Farina <tiziana.farina@live.it>
+Date:   Wed Nov 24 16:04:37 2021 +0100
+
+    pre commit
+
+[33mcommit 38b8bc8c2cb2c1e050d14b44c416004d20470c80[m
+Author: Tiziana Farina <tiziana.farina@live.it>
+Date:   Wed Nov 24 16:00:04 2021 +0100
+
+    merge solved
+
+[33mcommit 2ee9c4995f461e9a2c1ab4dc0fcfb9f4e22e33aa[m
+Author: Tiziana Farina <tiziana.farina@live.it>
+Date:   Wed Nov 24 15:52:43 2021 +0100
+
+    Enter
+
+[33mcommit dfa5f7881c6e6c2a0385f967f2636b659e8a8940[m
+Merge: ba1fc0f d0f7f43
+Author: Tiziana Farina <tiziana.farina@live.it>
+Date:   Wed Nov 24 14:33:02 2021 +0100
+
+    Merge branch 'master' of gitlab.com:hackademy-34/presto_justdevs
+
+[33mcommit d0f7f43c070a6448d748add8b8cedc834c1e7346[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Wed Nov 24 12:53:15 2021 +0100
+
+    enter
+
+[33mcommit d90d536cf7a5b7c525db536091a6790f1efc6c53[m
+Author: Bruno Marino <bruno97984@gmail.com>
+Date:   Wed Nov 24 11:43:50 2021 +0100
+
+    aggiornati middelware auth  in announcementcontroller
+
+[33mcommit ba1fc0f7f278e272e36a9883530220457c570a2b[m
+Merge: 813ffd0 0baaa56
+Author: Tiziana Farina <tiziana.farina@live.it>
+Date:   Wed Nov 24 11:13:02 2021 +0100
+
+    Merge branch 'master' of gitlab.com:hackademy-34/presto_justdevs
+
+[33mcommit 0b0a8f6371fb091dfd7acaafa63b3705a8796409[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Wed Nov 24 10:53:12 2021 +0100
+
+    modifiche
+
+[33mcommit 3cac2d0df5bb5bf1949ca60517c39a673fd87ce4[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Wed Nov 24 10:41:35 2021 +0100
+
+    Aggiustato qualche scelta di design e aggiunto in login e register la possibilità di registrarti e accedere direttamente nella blade
+
+[33mcommit 813ffd09cae0b4334f4794302ef2ced654419214[m
+Author: Tiziana Farina <tiziana.farina@live.it>
+Date:   Wed Nov 24 09:41:43 2021 +0100
+
+    pre-commit
+
+[33mcommit 582eebf55a77e31f0df05a1d8cd18ffa7786c119[m
+Merge: 4e9d1a9 0baaa56
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Wed Nov 24 08:53:13 2021 +0100
+
+    Merge branch 'master' of gitlab.com:hackademy-34/presto_justdevs
+
+[33mcommit 4e9d1a9ed3b0e2c7c89c23fcac0d3abd3a88a971[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Wed Nov 24 08:53:00 2021 +0100
+
+    invio
+
+[33mcommit 0baaa56e251f849f915ca37ac783cf2d7f6ca03c[m
+Merge: 9caf417 7ceab42
+Author: Bruno Marino <bruno97984@gmail.com>
+Date:   Wed Nov 24 03:11:33 2021 +0100
+
+    Merge branch 'master' of gitlab.com:hackademy-34/presto_justdevs
+
+[33mcommit 9caf4177e1a44f55143bd35d7b129bd68272e35d[m
+Author: Bruno Marino <bruno97984@gmail.com>
+Date:   Wed Nov 24 03:11:08 2021 +0100
+
+    aggiunto tasto per categoria sulla navbar;
+
+[33mcommit 7ceab4246b327f4df64b7110b5581550c8e0a12c[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Wed Nov 24 02:59:04 2021 +0100
+
+    sistemato bug navbar e card
+
+[33mcommit 69e0feae91636dc8042ea4110dd492419dcfe4fd[m
+Merge: a14d177 380f330
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Wed Nov 24 02:36:47 2021 +0100
+
+    Merge branch 'master' of gitlab.com:hackademy-34/presto_justdevs
+
+[33mcommit 380f3307cc4dd1e82a73148a4e8cbeef3074799c[m
+Author: Bruno Marino <bruno97984@gmail.com>
+Date:   Wed Nov 24 02:36:37 2021 +0100
+
+    aggiunto corousel in header.welcome
+
+[33mcommit a14d177995649e55b835e56060fa3bb9e84bc7ec[m
+Merge: 2deb08a 2b31601
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Wed Nov 24 02:06:49 2021 +0100
+
+    Merge branch 'master' of gitlab.com:hackademy-34/presto_justdevs
+
+[33mcommit 2deb08a6867b90a721bbd7ed2817c25b8e887fd4[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Wed Nov 24 02:06:45 2021 +0100
+
+    invio
+
+[33mcommit 2b3160157b7764762bf3f993f19f86321b555841[m
+Author: Bruno Marino <bruno97984@gmail.com>
+Date:   Wed Nov 24 02:00:02 2021 +0100
+
+    completato footer e announcement.show; aggiornate card
+
+[33mcommit b197a2df346505f63bbed4b5883c8b163e61da4b[m
+Merge: dad908b bd55122
+Author: Tiziana Farina <tiziana.farina@live.it>
+Date:   Tue Nov 23 20:58:38 2021 +0100
+
+    Merge branch 'master' of gitlab.com:hackademy-34/presto_justdevs
+
+[33mcommit bd55122ae91e75e484e3c808faf0e994adeed9f0[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Tue Nov 23 20:53:37 2021 +0100
+
+    invio
+
+[33mcommit 4751c9db45e69d3729df81ca4582c65a995817dd[m
+Merge: 31516b8 2e659bd
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Tue Nov 23 20:43:19 2021 +0100
+
+    Merge branch 'master' of gitlab.com:hackademy-34/presto_justdevs
+
+[33mcommit 31516b8052cfce438e345a9d87add80813fa184f[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Tue Nov 23 20:41:26 2021 +0100
+
+    Merge branch 'master' of gitlab.com:hackademy-34/presto_justdevs
+
+[33mcommit 2e659bd3b6ce7d1736d55c48c2323c6d73c1c140[m
+Author: Bruno Marino <bruno97984@gmail.com>
+Date:   Tue Nov 23 20:40:34 2021 +0100
+
+    aggiustata rotta researchCategory; iniziata vista announcement.show
+
+[33mcommit a363ee08e1adca1c82a2474fb0194fdd5f822aa4[m
+Author: Bruno Marino <bruno97984@gmail.com>
+Date:   Tue Nov 23 19:57:54 2021 +0100
+
+    pagination in index.announcement completata
+
+[33mcommit c3f4b0e2575638464599fdf0f2ec998334de5361[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Tue Nov 23 19:02:19 2021 +0100
+
+    pagination non funziona da risolvere
+
+[33mcommit dad908b8c5931740b4fdbeec39b2e08165bc1da4[m
+Author: Tiziana Farina <tiziana.farina@live.it>
+Date:   Tue Nov 23 17:41:12 2021 +0100
+
+    pre-commit
+
+[33mcommit eb683b89e2d8730c215875a4051a32078db71840[m
+Merge: abd5700 220f5cc
+Author: Tiziana Farina <tiziana.farina@live.it>
+Date:   Tue Nov 23 16:59:38 2021 +0100
+
+    Merge branch 'master' of gitlab.com:hackademy-34/presto_justdevs
+
+[33mcommit abd5700f2d5d4614c7a420e5e0eab7f4bd425176[m
+Author: unknown <tiziana.farina@live.it>
+Date:   Tue Nov 23 16:47:20 2021 +0100
+
+    pre-commit2
+
+[33mcommit 220f5cc6bdbfcddc55d545a19f3eec50a62f09c2[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Tue Nov 23 16:45:47 2021 +0100
+
+    sistemato errore 404 della sezione annunci
+
+[33mcommit 27cee0d6797903f9eef3a86d6127880a4881ecc2[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Tue Nov 23 16:41:10 2021 +0100
+
+    filtraggio per categoria
+
+[33mcommit 7373c1cc1d85eb4b94301d68b6a3b3ea59ed1db6[m
+Author: Bruno Marino <bruno97984@gmail.com>
+Date:   Tue Nov 23 13:13:36 2021 +0100
+
+    aggiornate card e filtro per categoria
+
+[33mcommit a7f56f59613811713abfb2caf35d4effbdefa548[m
+Merge: 8e213a7 4c9f9c1
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Tue Nov 23 13:00:07 2021 +0100
+
+    Merge branch 'master' of gitlab.com:hackademy-34/presto_justdevs
+
+[33mcommit 8e213a7c966d4a707d80bf69ad6ca2b0e3b4fadc[m
+Merge: 715bbe6 1f8e30d
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Tue Nov 23 12:59:38 2021 +0100
+
+    Modificato card
+
+[33mcommit 4c9f9c1f316225b50c270991979f260695dae275[m
+Author: unknown <tiziana.farina@live.it>
+Date:   Tue Nov 23 12:57:58 2021 +0100
+
+    filtro per categoria
+
+[33mcommit 715bbe6dceadd02d9ccd014c0a249f07f646aabd[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Tue Nov 23 12:55:45 2021 +0100
+
+    modificate le card
+
+[33mcommit 1f8e30dc8d8688fb27d882e0c1c4473817bef939[m
+Author: unknown <tiziana.farina@live.it>
+Date:   Tue Nov 23 12:51:16 2021 +0100
+
+    inizializzato filtro per categorie
+
+[33mcommit 78f4a85f1e94a3138795843c7d8defd58f26e172[m
+Merge: 86ef70e e176581
+Author: unknown <tiziana.farina@live.it>
+Date:   Tue Nov 23 12:06:55 2021 +0100
+
+    Merge branch 'master' of gitlab.com:hackademy-34/presto_justdevs
+
+[33mcommit 86ef70e3ab0f53f9d188e2cef3609d015c8b6adf[m
+Author: unknown <tiziana.farina@live.it>
+Date:   Tue Nov 23 12:06:49 2021 +0100
+
+    pre-commit
+
+[33mcommit e176581a6a0649ec568b2f93cfc950e9e0cf6ebd[m
+Author: Bruno Marino <bruno97984@gmail.com>
+Date:   Tue Nov 23 11:55:29 2021 +0100
+
+    one_to_many user-annunci; inserite ultime 5 card in welcome
+
+[33mcommit 9c893a5306f5987433ea813d5155586b19cee29d[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Tue Nov 23 09:47:16 2021 +0100
+
+    Completata 1toM
+
+[33mcommit ace86c52e48db58d3a06254e5c30182adcfd1662[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Mon Nov 22 23:17:18 2021 +0100
+
+    Aggiornato form category
+
+[33mcommit 90d9072c329076bcc02ff9ea2ed8d328901053a9[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Mon Nov 22 23:02:54 2021 +0100
+
+    Aggiornata parte frontend login register e welcome
+
+[33mcommit 50f3b1eba432bf31484337b81b65844f9bc5c691[m
+Author: Bruno Marino <bruno97984@gmail.com>
+Date:   Mon Nov 22 19:57:16 2021 +0100
+
+    database inseminato con le categorie
+
+[33mcommit 0823685ffcb63908d743feb6e683d7a0704b2580[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Mon Nov 22 19:16:15 2021 +0100
+
+    Completata parte backend di  index
+
+[33mcommit c67a256d64f393531b79a56e45dc2cc72b82ffae[m
+Author: unknown <tiziana.farina@live.it>
+Date:   Mon Nov 22 17:38:22 2021 +0100
+
+    completata create function
+
+[33mcommit d14c9b07e6c8a558132791e186ca9e0a516a511d[m
+Merge: 1591c54 9fd17be
+Author: unknown <tiziana.farina@live.it>
+Date:   Mon Nov 22 16:41:26 2021 +0100
+
+    pre-commit
+
+[33mcommit 1591c545a2a2d81b7268670d0cc8719b66bbaf51[m
+Author: unknown <tiziana.farina@live.it>
+Date:   Mon Nov 22 16:40:30 2021 +0100
+
+    pre-commit
+
+[33mcommit 9fd17be8a447bd1f0321d18bdd7e9f6ec60fd39b[m
+Author: Bruno Marino <bruno97984@gmail.com>
+Date:   Mon Nov 22 16:36:00 2021 +0100
+
+    completato form login e register
+
+[33mcommit b2b9982dbd6abc73f5f2e474c478ddbc5d2a71c1[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Mon Nov 22 15:37:51 2021 +0100
+
+    Completata installazione fortify e sezione nella navbar
+
+[33mcommit 1662bc8cd511ecb5164ce23df81a93f86cd09b8f[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Mon Nov 22 15:06:00 2021 +0100
+
+    Aggiunta navbar e settaggi base style.css
+
+[33mcommit 39305dd6f9a9027a73dd5748b6a067af5b9f1fad[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Mon Nov 22 14:35:08 2021 +0100
+
+    Collegati gli asset e bootstrap
+
+[33mcommit 7b513f6315188ee133c0411f95759dc25eac5732[m
+Author: Emanuele Denaro <seriumbusiness@gmail.com>
+Date:   Mon Nov 22 14:28:25 2021 +0100
+
+    Inizio Progetto
